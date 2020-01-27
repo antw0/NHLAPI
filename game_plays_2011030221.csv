@@ -1,0 +1,355 @@
+,play_id,game_id,play_num,team_id_for,team_id_against,event,secondaryType,x,y,period,periodType,periodTime,periodTimeRemaining,dateTime,goals_away,goals_home,description,st_x,st_y,rink_side
+0,2011030221_1,2011030221,1,,,Game Scheduled,,,,1,REGULAR,0,1200,2012-04-29 18:16:06,0,0,Game Scheduled,,,
+1,2011030221_2,2011030221,2,,,Period Ready,,,,1,REGULAR,0,1200,2012-04-29 19:19:49,0,0,Period Ready,,,
+2,2011030221_3,2011030221,3,,,Period Start,,,,1,REGULAR,0,1200,2012-04-29 19:20:13,0,0,Period Start,,,
+3,2011030221_4,2011030221,4,4.0,1.0,Faceoff,,0.0,0.0,1,REGULAR,0,1200,2012-04-29 19:20:13,0,0,Sean Couturier faceoff won against Patrik Elias,0.0,0.0,right
+4,2011030221_5,2011030221,5,4.0,1.0,Giveaway,,28.0,24.0,1,REGULAR,21,1179,2012-04-29 19:21:02,0,0,Giveaway by Kimmo Timonen,-28.0,-24.0,right
+5,2011030221_6,2011030221,6,4.0,1.0,Blocked Shot,,52.0,28.0,1,REGULAR,26,1174,2012-04-29 19:21:07,0,0,Max Talbot blocked shot from Patrik Elias,-52.0,-28.0,right
+6,2011030221_7,2011030221,7,1.0,4.0,Shot,Wrist Shot,80.0,-3.0,1,REGULAR,30,1170,2012-04-29 19:21:12,0,0,Patrik Elias Wrist Shot saved by Ilya Bryzgalov,80.0,-3.0,left
+7,2011030221_8,2011030221,8,1.0,4.0,Hit,,-30.0,-38.0,1,REGULAR,60,1140,2012-04-29 19:21:40,0,0,Marek Zidlicky hit Jaromir Jagr,-30.0,-38.0,left
+8,2011030221_9,2011030221,9,4.0,1.0,Giveaway,,-60.0,39.0,1,REGULAR,94,1106,2012-04-29 19:22:14,0,0,Giveaway by Scott Hartnell,60.0,-39.0,right
+9,2011030221_10,2011030221,10,,,Stoppage,,,,1,REGULAR,118,1082,2012-04-29 19:22:42,0,0,Puck in Benches,,,
+10,2011030221_11,2011030221,11,4.0,1.0,Faceoff,,0.0,0.0,1,REGULAR,118,1082,2012-04-29 19:22:59,0,0,Daniel Briere faceoff won against Stephen Gionta,0.0,0.0,right
+11,2011030221_12,2011030221,12,1.0,4.0,Shot,Wrap-around,88.0,-4.0,1,REGULAR,139,1061,2012-04-29 19:23:29,0,0,Ryan Carter Wrap-around saved by Ilya Bryzgalov,88.0,-4.0,left
+12,2011030221_13,2011030221,13,1.0,4.0,Shot,Wrist Shot,81.0,-27.0,1,REGULAR,154,1046,2012-04-29 19:23:44,0,0,Stephen Gionta Wrist Shot saved by Ilya Bryzgalov,81.0,-27.0,left
+13,2011030221_14,2011030221,14,4.0,1.0,Hit,,-64.0,-35.0,1,REGULAR,193,1007,2012-04-29 19:24:23,0,0,Brayden Schenn hit Anton Volchenkov,64.0,35.0,right
+14,2011030221_15,2011030221,15,4.0,1.0,Giveaway,,97.0,-9.0,1,REGULAR,194,1006,2012-04-29 19:24:23,0,0,Giveaway by Matt Read,-97.0,9.0,right
+15,2011030221_16,2011030221,16,1.0,4.0,Goal,Wrist Shot,73.0,11.0,1,REGULAR,196,1004,2012-04-29 19:24:26,1,0,"Zach Parise (3) Wrist Shot, assists: Patrik Elias (1)",73.0,11.0,left
+16,2011030221_17,2011030221,17,4.0,1.0,Faceoff,,0.0,0.0,1,REGULAR,196,1004,2012-04-29 19:25:07,1,0,Claude Giroux faceoff won against Travis Zajac,0.0,0.0,right
+17,2011030221_18,2011030221,18,,,Stoppage,,,,1,REGULAR,206,994,2012-04-29 19:25:21,1,0,Puck in Crowd,,,
+18,2011030221_19,2011030221,19,1.0,4.0,Faceoff,,-69.0,22.0,1,REGULAR,206,994,2012-04-29 19:25:31,1,0,Travis Zajac faceoff won against Scott Hartnell,-69.0,22.0,left
+19,2011030221_20,2011030221,20,,,Stoppage,,,,1,REGULAR,235,965,2012-04-29 19:26:26,1,0,Icing,,,
+20,2011030221_21,2011030221,21,4.0,1.0,Faceoff,,-69.0,22.0,1,REGULAR,235,965,2012-04-29 19:26:34,1,0,Daniel Briere faceoff won against Travis Zajac,69.0,-22.0,right
+21,2011030221_22,2011030221,22,4.0,1.0,Penalty,Slashing,,,1,REGULAR,237,963,2012-04-29 19:27:01,1,0,Jakub Voracek Slashing against Marek Zidlicky,,,right
+22,2011030221_23,2011030221,23,1.0,4.0,Faceoff,,69.0,22.0,1,REGULAR,237,963,2012-04-29 19:27:14,1,0,Patrik Elias faceoff won against Claude Giroux,69.0,22.0,left
+23,2011030221_24,2011030221,24,1.0,4.0,Takeaway,,14.0,-32.0,1,REGULAR,254,946,2012-04-29 19:27:39,1,0,Takeaway by Zach Parise,14.0,-32.0,left
+24,2011030221_25,2011030221,25,1.0,4.0,Shot,Snap Shot,63.0,-19.0,1,REGULAR,274,926,2012-04-29 19:28:00,1,0,Travis Zajac Snap Shot saved by Ilya Bryzgalov,63.0,-19.0,left
+25,2011030221_26,2011030221,26,1.0,4.0,Shot,Snap Shot,68.0,1.0,1,REGULAR,282,918,2012-04-29 19:28:08,1,0,Travis Zajac Snap Shot saved by Ilya Bryzgalov,68.0,1.0,left
+26,2011030221_27,2011030221,27,4.0,1.0,Giveaway,,87.0,6.0,1,REGULAR,305,895,2012-04-29 19:28:36,1,0,Giveaway by Ilya Bryzgalov,-87.0,-6.0,right
+27,2011030221_28,2011030221,28,1.0,4.0,Shot,Wrist Shot,84.0,10.0,1,REGULAR,306,894,2012-04-29 19:28:32,1,0,David Clarkson Wrist Shot saved by Ilya Bryzgalov,84.0,10.0,left
+28,2011030221_29,2011030221,29,1.0,4.0,Hit,,90.0,37.0,1,REGULAR,328,872,2012-04-29 19:28:53,1,0,David Clarkson hit Nicklas Grossmann,90.0,37.0,left
+29,2011030221_30,2011030221,30,1.0,4.0,Takeaway,,29.0,-31.0,1,REGULAR,339,861,2012-04-29 19:29:07,1,0,Takeaway by David Clarkson,29.0,-31.0,left
+30,2011030221_31,2011030221,31,1.0,4.0,Shot,Wrist Shot,65.0,-21.0,1,REGULAR,340,860,2012-04-29 19:29:07,1,0,David Clarkson Wrist Shot saved by Ilya Bryzgalov,65.0,-21.0,left
+31,2011030221_32,2011030221,32,,,Stoppage,,,,1,REGULAR,341,859,2012-04-29 19:29:19,1,0,Goalie Stopped,,,
+32,2011030221_33,2011030221,33,1.0,4.0,Faceoff,,69.0,-22.0,1,REGULAR,341,859,2012-04-29 19:29:22,1,0,Dainius Zubrus faceoff won against Claude Giroux,69.0,-22.0,left
+33,2011030221_34,2011030221,34,1.0,4.0,Missed Shot,,74.0,-27.0,1,REGULAR,417,783,2012-04-29 19:31:13,1,0,Ryan Carter - Wide of Net,74.0,-27.0,left
+34,2011030221_35,2011030221,35,1.0,4.0,Shot,Deflected,52.0,39.0,1,REGULAR,423,777,2012-04-29 19:31:16,1,0,Ryan Carter Deflected saved by Ilya Bryzgalov,52.0,39.0,left
+35,2011030221_36,2011030221,36,,,Stoppage,,,,1,REGULAR,423,777,2012-04-29 19:31:23,1,0,Goalie Stopped,,,
+36,2011030221_37,2011030221,37,1.0,4.0,Faceoff,,69.0,22.0,1,REGULAR,423,777,2012-04-29 19:33:00,1,0,Patrik Elias faceoff won against Claude Giroux,69.0,22.0,left
+37,2011030221_38,2011030221,38,4.0,1.0,Blocked Shot,,53.0,10.0,1,REGULAR,427,773,2012-04-29 19:33:34,1,0,Jaromir Jagr blocked shot from Bryce Salvador,-53.0,-10.0,right
+38,2011030221_39,2011030221,39,4.0,1.0,Blocked Shot,,46.0,-17.0,1,REGULAR,441,759,2012-04-29 19:33:48,1,0,Scott Hartnell blocked shot from Marek Zidlicky,-46.0,17.0,right
+39,2011030221_40,2011030221,40,1.0,4.0,Shot,Wrist Shot,67.0,-32.0,1,REGULAR,453,747,2012-04-29 19:34:00,1,0,Patrik Elias Wrist Shot saved by Ilya Bryzgalov,67.0,-32.0,left
+40,2011030221_41,2011030221,41,,,Stoppage,,,,1,REGULAR,454,746,2012-04-29 19:34:02,1,0,Goalie Stopped,,,
+41,2011030221_42,2011030221,42,4.0,1.0,Faceoff,,69.0,-22.0,1,REGULAR,454,746,2012-04-29 19:34:14,1,0,Brayden Schenn faceoff won against Travis Zajac,-69.0,22.0,right
+42,2011030221_43,2011030221,43,1.0,4.0,Hit,,87.0,-40.0,1,REGULAR,462,738,2012-04-29 19:34:38,1,0,Alexei Ponikarovsky hit Nicklas Grossmann,87.0,-40.0,left
+43,2011030221_44,2011030221,44,4.0,1.0,Hit,,-28.0,-36.0,1,REGULAR,470,730,2012-04-29 19:34:57,1,0,Nicklas Grossmann hit Alexei Ponikarovsky,28.0,36.0,right
+44,2011030221_45,2011030221,45,4.0,1.0,Hit,,79.0,41.0,1,REGULAR,513,687,2012-04-29 19:35:29,1,0,Andreas Lilja hit David Clarkson,-79.0,-41.0,right
+45,2011030221_46,2011030221,46,1.0,4.0,Shot,Snap Shot,63.0,23.0,1,REGULAR,528,672,2012-04-29 19:35:44,1,0,Petr Sykora Snap Shot saved by Ilya Bryzgalov,63.0,23.0,left
+46,2011030221_47,2011030221,47,4.0,1.0,Blocked Shot,,61.0,18.0,1,REGULAR,534,666,2012-04-29 19:35:51,1,0,Andreas Lilja blocked shot from Anton Volchenkov,-61.0,-18.0,right
+47,2011030221_48,2011030221,48,,,Stoppage,,,,1,REGULAR,569,631,2012-04-29 19:36:28,1,0,Offside,,,
+48,2011030221_49,2011030221,49,4.0,1.0,Faceoff,,-20.0,-22.0,1,REGULAR,569,631,2012-04-29 19:36:44,1,0,Sean Couturier faceoff won against Patrik Elias,20.0,22.0,right
+49,2011030221_50,2011030221,50,4.0,1.0,Shot,Wrist Shot,-24.0,17.0,1,REGULAR,601,599,2012-04-29 19:37:26,1,0,Matt Carle Wrist Shot saved by Martin Brodeur,24.0,-17.0,right
+50,2011030221_51,2011030221,51,1.0,4.0,Penalty,Roughing,-5.0,39.0,1,REGULAR,618,582,2012-04-29 19:38:00,1,0,Bryce Salvador Roughing against Sean Couturier,-5.0,39.0,left
+51,2011030221_52,2011030221,52,,,Stoppage,,,,1,REGULAR,618,582,2012-04-29 19:38:35,1,0,TV timeout,,,
+52,2011030221_53,2011030221,53,1.0,4.0,Faceoff,,-69.0,-22.0,1,REGULAR,618,582,2012-04-29 19:39:23,1,0,Travis Zajac faceoff won against Claude Giroux,-69.0,-22.0,left
+53,2011030221_54,2011030221,54,1.0,4.0,Shot,Slap Shot,-88.0,12.0,1,REGULAR,630,570,2012-04-29 19:40:10,1,0,Andy Greene Slap Shot saved by Ilya Bryzgalov,-88.0,12.0,left
+54,2011030221_55,2011030221,55,1.0,4.0,Blocked Shot,,-82.0,-12.0,1,REGULAR,727,473,2012-04-29 19:41:46,1,0,Marek Zidlicky blocked shot from James van Riemsdyk,-82.0,-12.0,left
+55,2011030221_56,2011030221,56,1.0,4.0,Blocked Shot,,-75.0,-22.0,1,REGULAR,734,466,2012-04-29 19:41:54,1,0,Marek Zidlicky blocked shot from Matt Read,-75.0,-22.0,left
+56,2011030221_57,2011030221,57,1.0,4.0,Blocked Shot,,-69.0,-4.0,1,REGULAR,736,464,2012-04-29 19:41:57,1,0,Marek Zidlicky blocked shot from James van Riemsdyk,-69.0,-4.0,left
+57,2011030221_58,2011030221,58,1.0,4.0,Hit,,97.0,-23.0,1,REGULAR,765,435,2012-04-29 19:42:23,1,0,Stephen Gionta hit Nicklas Grossmann,97.0,-23.0,left
+58,2011030221_59,2011030221,59,1.0,4.0,Hit,,97.0,7.0,1,REGULAR,776,424,2012-04-29 19:42:34,1,0,Ryan Carter hit Nicklas Grossmann,97.0,7.0,left
+59,2011030221_60,2011030221,60,4.0,1.0,Shot,Wrist Shot,-83.0,-22.0,1,REGULAR,796,404,2012-04-29 19:42:55,1,0,Sean Couturier Wrist Shot saved by Martin Brodeur,83.0,22.0,right
+60,2011030221_61,2011030221,61,4.0,1.0,Shot,Wrist Shot,-80.0,-14.0,1,REGULAR,798,402,2012-04-29 19:43:00,1,0,Max Talbot Wrist Shot saved by Martin Brodeur,80.0,14.0,right
+61,2011030221_62,2011030221,62,,,Stoppage,,,,1,REGULAR,799,401,2012-04-29 19:43:15,1,0,Goalie Stopped,,,
+62,2011030221_63,2011030221,63,1.0,4.0,Faceoff,,-69.0,-22.0,1,REGULAR,799,401,2012-04-29 19:43:35,1,0,David Clarkson faceoff won against Claude Giroux,-69.0,-22.0,left
+63,2011030221_64,2011030221,64,1.0,4.0,Hit,,-12.0,38.0,1,REGULAR,811,389,2012-04-29 19:43:57,1,0,David Clarkson hit Jaromir Jagr,-12.0,38.0,left
+64,2011030221_65,2011030221,65,4.0,1.0,Shot,Wrist Shot,-54.0,-21.0,1,REGULAR,834,366,2012-04-29 19:44:22,1,0,Claude Giroux Wrist Shot saved by Martin Brodeur,54.0,21.0,right
+65,2011030221_66,2011030221,66,4.0,1.0,Shot,Slap Shot,-29.0,-13.0,1,REGULAR,842,358,2012-04-29 19:44:29,1,0,Erik Gustafsson Slap Shot saved by Martin Brodeur,29.0,13.0,right
+66,2011030221_67,2011030221,67,1.0,4.0,Takeaway,,10.0,-25.0,1,REGULAR,881,319,2012-04-29 19:45:07,1,0,Takeaway by Mark Fayne,10.0,-25.0,left
+67,2011030221_68,2011030221,68,1.0,4.0,Shot,Wrist Shot,79.0,12.0,1,REGULAR,884,316,2012-04-29 19:45:11,1,0,Patrik Elias Wrist Shot saved by Ilya Bryzgalov,79.0,12.0,left
+68,2011030221_69,2011030221,69,,,Stoppage,,,,1,REGULAR,923,277,2012-04-29 19:45:53,1,0,Icing,,,
+69,2011030221_70,2011030221,70,1.0,4.0,Faceoff,,-69.0,22.0,1,REGULAR,923,277,2012-04-29 19:46:03,1,0,Travis Zajac faceoff won against Matt Read,-69.0,22.0,left
+70,2011030221_71,2011030221,71,4.0,1.0,Hit,,-93.0,35.0,1,REGULAR,927,273,2012-04-29 19:46:18,1,0,Brayden Schenn hit Anton Volchenkov,93.0,-35.0,right
+71,2011030221_72,2011030221,72,4.0,1.0,Hit,,-14.0,-38.0,1,REGULAR,938,262,2012-04-29 19:46:28,1,0,Wayne Simmonds hit Peter Harrold,14.0,38.0,right
+72,2011030221_73,2011030221,73,4.0,1.0,Shot,Snap Shot,-55.0,-38.0,1,REGULAR,946,254,2012-04-29 19:46:37,1,0,Brayden Schenn Snap Shot saved by Martin Brodeur,55.0,38.0,right
+73,2011030221_74,2011030221,74,,,Stoppage,,,,1,REGULAR,947,253,2012-04-29 19:46:39,1,0,Goalie Stopped,,,
+74,2011030221_75,2011030221,75,4.0,1.0,Faceoff,,-69.0,-22.0,1,REGULAR,947,253,2012-04-29 19:48:32,1,0,Daniel Briere faceoff won against Steve Bernier,69.0,22.0,right
+75,2011030221_76,2011030221,76,,,Stoppage,,,,1,REGULAR,953,247,2012-04-29 19:49:20,1,0,Puck in Crowd,,,
+76,2011030221_77,2011030221,77,4.0,1.0,Faceoff,,-20.0,-22.0,1,REGULAR,953,247,2012-04-29 19:49:31,1,0,Daniel Briere faceoff won against Stephen Gionta,20.0,22.0,right
+77,2011030221_78,2011030221,78,,,Stoppage,,,,1,REGULAR,964,236,2012-04-29 19:49:58,1,0,Offside,,,
+78,2011030221_79,2011030221,79,1.0,4.0,Faceoff,,20.0,22.0,1,REGULAR,964,236,2012-04-29 19:50:11,1,0,Adam Henrique faceoff won against Matt Read,20.0,22.0,left
+79,2011030221_80,2011030221,80,4.0,1.0,Hit,,96.0,22.0,1,REGULAR,978,222,2012-04-29 19:50:35,1,0,Andreas Lilja hit David Clarkson,-96.0,-22.0,right
+80,2011030221_81,2011030221,81,1.0,4.0,Missed Shot,,47.0,2.0,1,REGULAR,987,213,2012-04-29 19:50:45,1,0,Adam Henrique - Wide of Net,47.0,2.0,left
+81,2011030221_82,2011030221,82,1.0,4.0,Giveaway,,-60.0,-1.0,1,REGULAR,1002,198,2012-04-29 19:51:01,1,0,Giveaway by Bryce Salvador,-60.0,-1.0,left
+82,2011030221_83,2011030221,83,1.0,4.0,Penalty,Hooking,-55.0,-2.0,1,REGULAR,1004,196,2012-04-29 19:51:07,1,0,Marek Zidlicky Hooking against Brayden Schenn,-55.0,-2.0,left
+83,2011030221_84,2011030221,84,1.0,4.0,Faceoff,,-69.0,22.0,1,REGULAR,1004,196,2012-04-29 19:51:26,1,0,Travis Zajac faceoff won against Wayne Simmonds,-69.0,22.0,left
+84,2011030221_85,2011030221,85,,,Stoppage,,,,1,REGULAR,1013,187,2012-04-29 19:52:31,1,0,Puck Frozen,,,
+85,2011030221_86,2011030221,86,1.0,4.0,Faceoff,,69.0,22.0,1,REGULAR,1013,187,2012-04-29 19:53:00,1,0,Patrik Elias faceoff won against Daniel Briere,69.0,22.0,left
+86,2011030221_87,2011030221,87,1.0,4.0,Shot,Slap Shot,69.0,21.0,1,REGULAR,1013,187,2012-04-29 19:53:00,1,0,Patrik Elias Slap Shot saved by Ilya Bryzgalov,69.0,21.0,left
+87,2011030221_88,2011030221,88,1.0,4.0,Takeaway,,98.0,-6.0,1,REGULAR,1020,180,2012-04-29 19:53:02,1,0,Takeaway by Dainius Zubrus,98.0,-6.0,left
+88,2011030221_89,2011030221,89,1.0,4.0,Shot,Slap Shot,-87.0,12.0,1,REGULAR,1046,154,2012-04-29 19:53:29,1,0,Bryce Salvador Slap Shot saved by Ilya Bryzgalov,-87.0,12.0,left
+89,2011030221_90,2011030221,90,4.0,1.0,Hit,,-91.0,38.0,1,REGULAR,1093,107,2012-04-29 19:54:16,1,0,Wayne Simmonds hit Andy Greene,91.0,-38.0,right
+90,2011030221_91,2011030221,91,1.0,4.0,Blocked Shot,,-58.0,-14.0,1,REGULAR,1122,78,2012-04-29 19:54:46,1,0,Zach Parise blocked shot from Claude Giroux,-58.0,-14.0,left
+91,2011030221_92,2011030221,92,1.0,4.0,Hit,,-71.0,-38.0,1,REGULAR,1130,70,2012-04-29 19:54:53,1,0,Anton Volchenkov hit Claude Giroux,-71.0,-38.0,left
+92,2011030221_93,2011030221,93,4.0,1.0,Hit,,4.0,-37.0,1,REGULAR,1159,41,2012-04-29 19:55:22,1,0,Andreas Lilja hit Steve Bernier,-4.0,37.0,right
+93,2011030221_94,2011030221,94,4.0,1.0,Hit,,71.0,-21.0,1,REGULAR,1178,22,2012-04-29 19:55:41,1,0,Braydon Coburn hit Dainius Zubrus,-71.0,21.0,right
+94,2011030221_95,2011030221,95,1.0,4.0,Takeaway,,-59.0,40.0,1,REGULAR,1192,8,2012-04-29 19:55:56,1,0,Takeaway by Bryce Salvador,-59.0,40.0,left
+95,2011030221_96,2011030221,96,,,Period End,,,,1,REGULAR,1200,0,2012-04-29 19:56:09,1,0,End of 1st Period,,,
+96,2011030221_97,2011030221,97,,,Period Official,,,,1,REGULAR,1200,0,2012-04-29 20:03:11,1,0,Period Official,,,
+97,2011030221_98,2011030221,98,,,Period Ready,,,,2,REGULAR,0,1200,2012-04-29 20:13:20,1,0,Period Ready,,,
+98,2011030221_99,2011030221,99,,,Period Start,,,,2,REGULAR,0,1200,2012-04-29 20:13:27,1,0,Period Start,,,
+99,2011030221_100,2011030221,100,4.0,1.0,Faceoff,,0.0,0.0,2,REGULAR,0,1200,2012-04-29 20:13:32,1,0,Sean Couturier faceoff won against Patrik Elias,0.0,0.0,left
+100,2011030221_101,2011030221,101,1.0,4.0,Hit,,6.0,39.0,2,REGULAR,6,1194,2012-04-29 20:13:41,1,0,Zach Parise hit Matt Carle,-6.0,-39.0,right
+101,2011030221_102,2011030221,102,1.0,4.0,Hit,,52.0,39.0,2,REGULAR,19,1181,2012-04-29 20:14:02,1,0,Dainius Zubrus hit Matt Carle,-52.0,-39.0,right
+102,2011030221_103,2011030221,103,,,Stoppage,,,,2,REGULAR,35,1165,2012-04-29 20:14:12,1,0,Icing,,,
+103,2011030221_104,2011030221,104,4.0,1.0,Faceoff,,69.0,22.0,2,REGULAR,35,1165,2012-04-29 20:14:26,1,0,Claude Giroux faceoff won against Patrik Elias,69.0,22.0,left
+104,2011030221_105,2011030221,105,1.0,4.0,Hit,,96.0,3.0,2,REGULAR,44,1156,2012-04-29 20:14:41,1,0,Mark Fayne hit Jaromir Jagr,-96.0,-3.0,right
+105,2011030221_106,2011030221,106,4.0,1.0,Giveaway,,55.0,-36.0,2,REGULAR,74,1126,2012-04-29 20:15:12,1,0,Giveaway by Jaromir Jagr,55.0,-36.0,left
+106,2011030221_107,2011030221,107,4.0,1.0,Blocked Shot,,-60.0,-1.0,2,REGULAR,79,1121,2012-04-29 20:15:17,1,0,Nicklas Grossmann blocked shot from Travis Zajac,-60.0,-1.0,left
+107,2011030221_108,2011030221,108,4.0,1.0,Giveaway,,-84.0,-5.0,2,REGULAR,107,1093,2012-04-29 20:15:44,1,0,Giveaway by Ilya Bryzgalov,-84.0,-5.0,left
+108,2011030221_109,2011030221,109,4.0,1.0,Hit,,97.0,18.0,2,REGULAR,120,1080,2012-04-29 20:15:57,1,0,Daniel Briere hit Peter Harrold,97.0,18.0,left
+109,2011030221_110,2011030221,110,1.0,4.0,Hit,,-52.0,38.0,2,REGULAR,128,1072,2012-04-29 20:16:06,1,0,David Clarkson hit Andreas Lilja,52.0,-38.0,right
+110,2011030221_111,2011030221,111,4.0,1.0,Missed Shot,,75.0,41.0,2,REGULAR,142,1058,2012-04-29 20:16:21,1,0,Matt Read - Wide of Net,75.0,41.0,left
+111,2011030221_112,2011030221,112,,,Stoppage,,,,2,REGULAR,151,1049,2012-04-29 20:16:31,1,0,Icing,,,
+112,2011030221_113,2011030221,113,4.0,1.0,Faceoff,,69.0,-22.0,2,REGULAR,151,1049,2012-04-29 20:16:44,1,0,Matt Read faceoff won against Adam Henrique,69.0,-22.0,left
+113,2011030221_114,2011030221,114,1.0,4.0,Blocked Shot,,82.0,8.0,2,REGULAR,161,1039,2012-04-29 20:17:03,1,0,Anton Volchenkov blocked shot from Brayden Schenn,-82.0,-8.0,right
+114,2011030221_115,2011030221,115,1.0,4.0,Takeaway,,97.0,-3.0,2,REGULAR,165,1035,2012-04-29 20:17:06,1,0,Takeaway by Anton Volchenkov,-97.0,3.0,right
+115,2011030221_116,2011030221,116,4.0,1.0,Hit,,69.0,-40.0,2,REGULAR,171,1029,2012-04-29 20:17:12,1,0,Wayne Simmonds hit Anton Volchenkov,69.0,-40.0,left
+116,2011030221_117,2011030221,117,1.0,4.0,Hit,,-48.0,-40.0,2,REGULAR,202,998,2012-04-29 20:17:43,1,0,Ryan Carter hit Jaromir Jagr,48.0,40.0,right
+117,2011030221_118,2011030221,118,1.0,4.0,Shot,Wrist Shot,-28.0,-36.0,2,REGULAR,203,997,2012-04-29 20:17:45,1,0,Steve Bernier Wrist Shot saved by Ilya Bryzgalov,28.0,36.0,right
+118,2011030221_119,2011030221,119,1.0,4.0,Hit,,-98.0,-15.0,2,REGULAR,257,943,2012-04-29 20:18:38,1,0,Patrik Elias hit Andreas Lilja,98.0,15.0,right
+119,2011030221_120,2011030221,120,4.0,1.0,Hit,,93.0,35.0,2,REGULAR,284,916,2012-04-29 20:19:05,1,0,Sean Couturier hit Marek Zidlicky,93.0,35.0,left
+120,2011030221_121,2011030221,121,4.0,1.0,Shot,Wrist Shot,61.0,5.0,2,REGULAR,285,915,2012-04-29 20:19:07,1,0,Max Talbot Wrist Shot saved by Martin Brodeur,61.0,5.0,left
+121,2011030221_122,2011030221,122,,,Stoppage,,,,2,REGULAR,286,914,2012-04-29 20:19:17,1,0,Goalie Stopped,,,
+122,2011030221_123,2011030221,123,4.0,1.0,Faceoff,,69.0,22.0,2,REGULAR,286,914,2012-04-29 20:19:31,1,0,Daniel Briere faceoff won against Travis Zajac,69.0,22.0,left
+123,2011030221_124,2011030221,124,4.0,1.0,Shot,Slap Shot,31.0,33.0,2,REGULAR,288,912,2012-04-29 20:19:45,1,0,Nicklas Grossmann Slap Shot saved by Martin Brodeur,31.0,33.0,left
+124,2011030221_125,2011030221,125,4.0,1.0,Hit,,97.0,17.0,2,REGULAR,324,876,2012-04-29 20:20:20,1,0,Daniel Briere hit Peter Harrold,97.0,17.0,left
+125,2011030221_126,2011030221,126,,,Stoppage,,,,2,REGULAR,334,866,2012-04-29 20:20:32,1,0,Offside,,,
+126,2011030221_127,2011030221,127,1.0,4.0,Faceoff,,20.0,22.0,2,REGULAR,334,866,2012-04-29 20:20:40,1,0,Adam Henrique faceoff won against Brayden Schenn,-20.0,-22.0,right
+127,2011030221_128,2011030221,128,,,Stoppage,,,,2,REGULAR,359,841,2012-04-29 20:21:30,1,0,Referee or Linesman,,,
+128,2011030221_129,2011030221,129,1.0,4.0,Faceoff,,0.0,0.0,2,REGULAR,359,841,2012-04-29 20:21:37,1,0,Stephen Gionta faceoff won against Claude Giroux,0.0,0.0,right
+129,2011030221_130,2011030221,130,1.0,4.0,Hit,,86.0,-38.0,2,REGULAR,374,826,2012-04-29 20:22:08,1,0,Stephen Gionta hit Scott Hartnell,-86.0,38.0,right
+130,2011030221_131,2011030221,131,4.0,1.0,Shot,Snap Shot,54.0,-38.0,2,REGULAR,428,772,2012-04-29 20:23:03,1,0,Sean Couturier Snap Shot saved by Martin Brodeur,54.0,-38.0,left
+131,2011030221_132,2011030221,132,4.0,1.0,Giveaway,,-97.0,-2.0,2,REGULAR,482,718,2012-04-29 20:23:56,1,0,Giveaway by Braydon Coburn,-97.0,-2.0,left
+132,2011030221_133,2011030221,133,1.0,4.0,Missed Shot,,-66.0,40.0,2,REGULAR,482,718,2012-04-29 20:23:58,1,0,Ilya Kovalchuk - Wide of Net,66.0,-40.0,right
+133,2011030221_134,2011030221,134,4.0,1.0,Goal,Wrist Shot,79.0,-1.0,2,REGULAR,487,713,2012-04-29 20:24:10,1,1,"Daniel Briere (6) Wrist Shot, assists: Jakub Voracek (6)",79.0,-1.0,left
+134,2011030221_135,2011030221,135,1.0,4.0,Faceoff,,0.0,0.0,2,REGULAR,487,713,2012-04-29 20:24:40,1,1,Adam Henrique faceoff won against Brayden Schenn,0.0,0.0,right
+135,2011030221_136,2011030221,136,,,Stoppage,,,,2,REGULAR,498,702,2012-04-29 20:25:28,1,1,Hand Pass,,,
+136,2011030221_137,2011030221,137,4.0,1.0,Faceoff,,-20.0,22.0,2,REGULAR,498,702,2012-04-29 20:26:53,1,1,Brayden Schenn faceoff won against Adam Henrique,-20.0,22.0,left
+137,2011030221_138,2011030221,138,,,Stoppage,,,,2,REGULAR,513,687,2012-04-29 20:27:35,1,1,Offside,,,
+138,2011030221_139,2011030221,139,4.0,1.0,Faceoff,,0.0,0.0,2,REGULAR,513,687,2012-04-29 20:27:58,1,1,Jakub Voracek faceoff won against Stephen Gionta,0.0,0.0,left
+139,2011030221_140,2011030221,140,1.0,4.0,Giveaway,,84.0,-3.0,2,REGULAR,520,680,2012-04-29 20:28:36,1,1,Giveaway by Martin Brodeur,-84.0,3.0,right
+140,2011030221_141,2011030221,141,4.0,1.0,Shot,Wrist Shot,-72.0,-15.0,2,REGULAR,522,678,2012-04-29 20:28:32,1,1,Erik Gustafsson Wrist Shot saved by Martin Brodeur,-72.0,-15.0,left
+141,2011030221_142,2011030221,142,4.0,1.0,Goal,Snap Shot,67.0,10.0,2,REGULAR,524,676,2012-04-29 20:28:48,1,2,"James van Riemsdyk (1) Snap Shot, assists: Erik Gustafsson (1)",67.0,10.0,left
+142,2011030221_143,2011030221,143,1.0,4.0,Faceoff,,0.0,0.0,2,REGULAR,524,676,2012-04-29 20:29:07,1,2,Patrik Elias faceoff won against Sean Couturier,0.0,0.0,right
+143,2011030221_144,2011030221,144,1.0,4.0,Missed Shot,,-28.0,31.0,2,REGULAR,536,664,2012-04-29 20:29:26,1,2,Marek Zidlicky - Wide of Net,28.0,-31.0,right
+144,2011030221_145,2011030221,145,4.0,1.0,Blocked Shot,,-75.0,-7.0,2,REGULAR,541,659,2012-04-29 20:29:30,1,2,Kimmo Timonen blocked shot from Bryce Salvador,-75.0,-7.0,left
+145,2011030221_146,2011030221,146,4.0,1.0,Penalty,Tripping,-82.0,-1.0,2,REGULAR,571,629,2012-04-29 20:30:07,1,2,Eric Wellwood Tripping against Zach Parise,-82.0,-1.0,left
+146,2011030221_147,2011030221,147,4.0,1.0,Faceoff,,-69.0,-22.0,2,REGULAR,571,629,2012-04-29 20:30:28,1,2,Claude Giroux faceoff won against Adam Henrique,-69.0,-22.0,left
+147,2011030221_148,2011030221,148,4.0,1.0,Blocked Shot,,-73.0,8.0,2,REGULAR,587,613,2012-04-29 20:31:01,1,2,Kimmo Timonen blocked shot from Petr Sykora,-73.0,8.0,left
+148,2011030221_149,2011030221,149,,,Stoppage,,,,2,REGULAR,603,597,2012-04-29 20:31:19,1,2,Offside,,,
+149,2011030221_150,2011030221,150,1.0,4.0,Faceoff,,-20.0,22.0,2,REGULAR,603,597,2012-04-29 20:31:32,1,2,Travis Zajac faceoff won against Sean Couturier,20.0,-22.0,right
+150,2011030221_151,2011030221,151,1.0,4.0,Missed Shot,,-77.0,2.0,2,REGULAR,657,543,2012-04-29 20:32:33,1,2,Zach Parise - Wide of Net,77.0,-2.0,right
+151,2011030221_152,2011030221,152,4.0,1.0,Blocked Shot,,-46.0,-20.0,2,REGULAR,694,506,2012-04-29 20:33:10,1,2,Matt Read blocked shot from Peter Harrold,-46.0,-20.0,left
+152,2011030221_153,2011030221,153,1.0,4.0,Penalty,Tripping,78.0,1.0,2,REGULAR,700,500,2012-04-29 20:33:24,1,2,Patrik Elias Tripping against Eric Wellwood,-78.0,-1.0,right
+153,2011030221_154,2011030221,154,,,Stoppage,,,,2,REGULAR,700,500,2012-04-29 20:34:56,1,2,TV timeout,,,
+154,2011030221_155,2011030221,155,4.0,1.0,Faceoff,,69.0,22.0,2,REGULAR,700,500,2012-04-29 20:35:13,1,2,Claude Giroux faceoff won against Adam Henrique,69.0,22.0,left
+155,2011030221_156,2011030221,156,4.0,1.0,Shot,Wrist Shot,44.0,-27.0,2,REGULAR,721,479,2012-04-29 20:35:55,1,2,Claude Giroux Wrist Shot saved by Martin Brodeur,44.0,-27.0,left
+156,2011030221_157,2011030221,157,4.0,1.0,Missed Shot,,80.0,25.0,2,REGULAR,740,460,2012-04-29 20:36:14,1,2,Scott Hartnell - Wide of Net,80.0,25.0,left
+157,2011030221_158,2011030221,158,4.0,1.0,Missed Shot,,32.0,-1.0,2,REGULAR,756,444,2012-04-29 20:36:29,1,2,Matt Carle - Wide of Net,32.0,-1.0,left
+158,2011030221_159,2011030221,159,1.0,4.0,Takeaway,,55.0,21.0,2,REGULAR,797,403,2012-04-29 20:37:10,1,2,Takeaway by Adam Henrique,-55.0,-21.0,right
+159,2011030221_160,2011030221,160,4.0,1.0,Penalty,Hooking,-84.0,4.0,2,REGULAR,802,398,2012-04-29 20:37:30,1,2,Matt Carle Hooking against Adam Henrique,-84.0,4.0,left
+160,2011030221_161,2011030221,161,1.0,4.0,Faceoff,,-69.0,22.0,2,REGULAR,802,398,2012-04-29 20:37:52,1,2,Travis Zajac faceoff won against Sean Couturier,69.0,-22.0,right
+161,2011030221_162,2011030221,162,1.0,4.0,Goal,Tip-In,-80.0,1.0,2,REGULAR,833,367,2012-04-29 20:38:47,2,2,"Travis Zajac (4) Tip-In, assists: Zach Parise (3), Ilya Kovalchuk (3)",80.0,-1.0,right
+162,2011030221_163,2011030221,163,1.0,4.0,Faceoff,,0.0,0.0,2,REGULAR,833,367,2012-04-29 20:39:16,2,2,Stephen Gionta faceoff won against Claude Giroux,0.0,0.0,right
+163,2011030221_164,2011030221,164,,,Stoppage,,,,2,REGULAR,856,344,2012-04-29 20:40:01,2,2,Icing,,,
+164,2011030221_165,2011030221,165,4.0,1.0,Faceoff,,-69.0,22.0,2,REGULAR,856,344,2012-04-29 20:40:14,2,2,Claude Giroux faceoff won against Adam Henrique,-69.0,22.0,left
+165,2011030221_166,2011030221,166,1.0,4.0,Hit,,-8.0,38.0,2,REGULAR,867,333,2012-04-29 20:40:34,2,2,Mark Fayne hit Scott Hartnell,8.0,-38.0,right
+166,2011030221_167,2011030221,167,,,Stoppage,,,,2,REGULAR,868,332,2012-04-29 20:40:46,2,2,Puck in Benches,,,
+167,2011030221_168,2011030221,168,1.0,4.0,Faceoff,,-20.0,22.0,2,REGULAR,868,332,2012-04-29 20:42:29,2,2,Adam Henrique faceoff won against Jakub Voracek,20.0,-22.0,right
+168,2011030221_169,2011030221,169,4.0,1.0,Hit,,43.0,40.0,2,REGULAR,889,311,2012-04-29 20:43:12,2,2,Andreas Lilja hit David Clarkson,43.0,40.0,left
+169,2011030221_170,2011030221,170,4.0,1.0,Hit,,5.0,40.0,2,REGULAR,895,305,2012-04-29 20:43:19,2,2,James van Riemsdyk hit David Clarkson,5.0,40.0,left
+170,2011030221_171,2011030221,171,1.0,4.0,Shot,Wrist Shot,-27.0,-40.0,2,REGULAR,899,301,2012-04-29 20:43:25,2,2,Adam Henrique Wrist Shot saved by Ilya Bryzgalov,27.0,40.0,right
+171,2011030221_172,2011030221,172,,,Stoppage,,,,2,REGULAR,900,300,2012-04-29 20:43:25,2,2,Goalie Stopped,,,
+172,2011030221_173,2011030221,173,1.0,4.0,Faceoff,,-69.0,-22.0,2,REGULAR,900,300,2012-04-29 20:43:36,2,2,Patrik Elias faceoff won against Claude Giroux,69.0,22.0,right
+173,2011030221_174,2011030221,174,1.0,4.0,Missed Shot,,-44.0,-41.0,2,REGULAR,927,273,2012-04-29 20:44:23,2,2,Anton Volchenkov - Wide of Net,44.0,41.0,right
+174,2011030221_175,2011030221,175,1.0,4.0,Hit,,-63.0,-36.0,2,REGULAR,937,263,2012-04-29 20:44:33,2,2,Anton Volchenkov hit Jaromir Jagr,63.0,36.0,right
+175,2011030221_176,2011030221,176,4.0,1.0,Takeaway,,7.0,-40.0,2,REGULAR,972,228,2012-04-29 20:45:08,2,2,Takeaway by Wayne Simmonds,7.0,-40.0,left
+176,2011030221_177,2011030221,177,,,Stoppage,,,,2,REGULAR,990,210,2012-04-29 20:45:29,2,2,Puck in Crowd,,,
+177,2011030221_178,2011030221,178,1.0,4.0,Faceoff,,20.0,22.0,2,REGULAR,990,210,2012-04-29 20:45:45,2,2,Travis Zajac faceoff won against Daniel Briere,-20.0,-22.0,right
+178,2011030221_179,2011030221,179,1.0,4.0,Blocked Shot,,85.0,-11.0,2,REGULAR,1028,172,2012-04-29 20:46:35,2,2,Travis Zajac blocked shot from Braydon Coburn,-85.0,11.0,right
+179,2011030221_180,2011030221,180,,,Stoppage,,,,2,REGULAR,1061,139,2012-04-29 20:47:08,2,2,Icing,,,
+180,2011030221_181,2011030221,181,4.0,1.0,Faceoff,,69.0,22.0,2,REGULAR,1061,139,2012-04-29 20:47:22,2,2,Claude Giroux faceoff won against Steve Bernier,69.0,22.0,left
+181,2011030221_182,2011030221,182,4.0,1.0,Missed Shot,,51.0,-12.0,2,REGULAR,1066,134,2012-04-29 20:47:47,2,2,Erik Gustafsson - Wide of Net,51.0,-12.0,left
+182,2011030221_183,2011030221,183,1.0,4.0,Blocked Shot,,84.0,21.0,2,REGULAR,1076,124,2012-04-29 20:47:58,2,2,Steve Bernier blocked shot from Matt Carle,-84.0,-21.0,right
+183,2011030221_184,2011030221,184,,,Stoppage,,,,2,REGULAR,1076,124,2012-04-29 20:48:10,2,2,Puck in Netting,,,
+184,2011030221_185,2011030221,185,4.0,1.0,Faceoff,,69.0,22.0,2,REGULAR,1076,124,2012-04-29 20:48:17,2,2,Claude Giroux faceoff won against Patrik Elias,69.0,22.0,left
+185,2011030221_186,2011030221,186,4.0,1.0,Missed Shot,,55.0,19.0,2,REGULAR,1078,122,2012-04-29 20:48:28,2,2,Nicklas Grossmann - Wide of Net,55.0,19.0,left
+186,2011030221_187,2011030221,187,4.0,1.0,Hit,,60.0,-40.0,2,REGULAR,1084,116,2012-04-29 20:48:32,2,2,Braydon Coburn hit Zach Parise,60.0,-40.0,left
+187,2011030221_188,2011030221,188,,,Stoppage,,,,2,REGULAR,1106,94,2012-04-29 20:48:56,2,2,Puck in Crowd,,,
+188,2011030221_189,2011030221,189,4.0,1.0,Faceoff,,-69.0,22.0,2,REGULAR,1106,94,2012-04-29 20:49:14,2,2,Sean Couturier faceoff won against Travis Zajac,-69.0,22.0,left
+189,2011030221_190,2011030221,190,1.0,4.0,Hit,,-94.0,32.0,2,REGULAR,1111,89,2012-04-29 20:49:30,2,2,Alexei Ponikarovsky hit Braydon Coburn,94.0,-32.0,right
+190,2011030221_191,2011030221,191,4.0,1.0,Hit,,-52.0,-34.0,2,REGULAR,1124,76,2012-04-29 20:49:48,2,2,Max Talbot hit Alexei Ponikarovsky,-52.0,-34.0,left
+191,2011030221_192,2011030221,192,4.0,1.0,Takeaway,,97.0,0.0,2,REGULAR,1142,58,2012-04-29 20:50:23,2,2,Takeaway by Max Talbot,97.0,0.0,left
+192,2011030221_193,2011030221,193,4.0,1.0,Shot,Snap Shot,43.0,-36.0,2,REGULAR,1145,55,2012-04-29 20:50:06,2,2,Sean Couturier Snap Shot saved by Martin Brodeur,43.0,-36.0,left
+193,2011030221_194,2011030221,194,,,Stoppage,,,,2,REGULAR,1146,54,2012-04-29 20:50:11,2,2,Goalie Stopped,,,
+194,2011030221_195,2011030221,195,4.0,1.0,Faceoff,,69.0,-22.0,2,REGULAR,1146,54,2012-04-29 20:50:35,2,2,Daniel Briere faceoff won against Dainius Zubrus,69.0,-22.0,left
+195,2011030221_196,2011030221,196,,,Stoppage,,,,2,REGULAR,1151,49,2012-04-29 20:51:14,2,2,Puck in Crowd,,,
+196,2011030221_197,2011030221,197,4.0,1.0,Faceoff,,69.0,-22.0,2,REGULAR,1151,49,2012-04-29 20:51:29,2,2,Daniel Briere faceoff won against Adam Henrique,69.0,-22.0,left
+197,2011030221_198,2011030221,198,4.0,1.0,Missed Shot,,50.0,23.0,2,REGULAR,1178,22,2012-04-29 20:52:04,2,2,Claude Giroux - Wide of Net,50.0,23.0,left
+198,2011030221_199,2011030221,199,1.0,4.0,Hit,,-30.0,-27.0,2,REGULAR,1193,7,2012-04-29 20:52:21,2,2,David Clarkson hit Erik Gustafsson,30.0,27.0,right
+199,2011030221_200,2011030221,200,,,Period End,,,,2,REGULAR,1200,0,2012-04-29 20:52:29,2,2,End of 2nd Period,,,
+200,2011030221_201,2011030221,201,,,Period Official,,,,2,REGULAR,1200,0,2012-04-29 21:05:30,2,2,Period Official,,,
+201,2011030221_202,2011030221,202,,,Period Ready,,,,3,REGULAR,0,1200,2012-04-29 21:09:44,2,2,Period Ready,,,
+202,2011030221_203,2011030221,203,,,Period Start,,,,3,REGULAR,0,1200,2012-04-29 21:09:58,2,2,Period Start,,,
+204,2011030221_204,2011030221,204,4.0,1.0,Faceoff,,0.0,0.0,3,REGULAR,0,1200,2012-04-29 21:09:58,2,2,Sean Couturier faceoff won against Patrik Elias,0.0,0.0,right
+205,2011030221_205,2011030221,205,4.0,1.0,Takeaway,,-82.0,-40.0,3,REGULAR,34,1166,2012-04-29 21:12:50,2,2,Takeaway by Eric Wellwood,82.0,40.0,right
+206,2011030221_206,2011030221,206,1.0,4.0,Missed Shot,,74.0,-40.0,3,REGULAR,63,1137,2012-04-29 21:13:20,2,2,Ilya Kovalchuk - Wide of Net,74.0,-40.0,left
+207,2011030221_207,2011030221,207,4.0,1.0,Giveaway,,97.0,12.0,3,REGULAR,82,1118,2012-04-29 21:13:38,2,2,Giveaway by Braydon Coburn,-97.0,-12.0,right
+208,2011030221_208,2011030221,208,4.0,1.0,Blocked Shot,,80.0,13.0,3,REGULAR,82,1118,2012-04-29 21:13:39,2,2,Nicklas Grossmann blocked shot from Alexei Ponikarovsky,-80.0,-13.0,right
+209,2011030221_209,2011030221,209,4.0,1.0,Missed Shot,,-32.0,26.0,3,REGULAR,90,1110,2012-04-29 21:13:47,2,2,Braydon Coburn - Wide of Net,32.0,-26.0,right
+210,2011030221_210,2011030221,210,4.0,1.0,Missed Shot,,-67.0,9.0,3,REGULAR,100,1100,2012-04-29 21:13:57,2,2,Claude Giroux - Wide of Net,67.0,-9.0,right
+211,2011030221_211,2011030221,211,4.0,1.0,Shot,Slap Shot,-39.0,26.0,3,REGULAR,104,1096,2012-04-29 21:14:02,2,2,Braydon Coburn Slap Shot saved by Martin Brodeur,39.0,-26.0,right
+212,2011030221_212,2011030221,212,,,Stoppage,,,,3,REGULAR,104,1096,2012-04-29 21:14:08,2,2,Goalie Stopped,,,
+213,2011030221_213,2011030221,213,1.0,4.0,Faceoff,,-69.0,22.0,3,REGULAR,104,1096,2012-04-29 21:14:14,2,2,Adam Henrique faceoff won against Daniel Briere,-69.0,22.0,left
+214,2011030221_214,2011030221,214,,,Stoppage,,,,3,REGULAR,112,1088,2012-04-29 21:14:40,2,2,Icing,,,
+215,2011030221_215,2011030221,215,4.0,1.0,Faceoff,,-69.0,22.0,3,REGULAR,112,1088,2012-04-29 21:14:56,2,2,Daniel Briere faceoff won against Adam Henrique,69.0,-22.0,right
+216,2011030221_216,2011030221,216,4.0,1.0,Shot,Wrist Shot,-32.0,-35.0,3,REGULAR,121,1079,2012-04-29 21:15:11,2,2,Andreas Lilja Wrist Shot saved by Martin Brodeur,32.0,35.0,right
+217,2011030221_217,2011030221,217,1.0,4.0,Hit,,-91.0,-38.0,3,REGULAR,129,1071,2012-04-29 21:15:18,2,2,Anton Volchenkov hit Jakub Voracek,-91.0,-38.0,left
+218,2011030221_218,2011030221,218,4.0,1.0,Missed Shot,,-34.0,33.0,3,REGULAR,135,1065,2012-04-29 21:15:26,2,2,Erik Gustafsson - Wide of Net,34.0,-33.0,right
+219,2011030221_219,2011030221,219,1.0,4.0,Blocked Shot,,-85.0,-6.0,3,REGULAR,141,1059,2012-04-29 21:15:31,2,2,Peter Harrold blocked shot from Andreas Lilja,-85.0,-6.0,left
+220,2011030221_220,2011030221,220,4.0,1.0,Shot,Snap Shot,-36.0,29.0,3,REGULAR,150,1050,2012-04-29 21:15:39,2,2,Erik Gustafsson Snap Shot saved by Martin Brodeur,36.0,-29.0,right
+221,2011030221_221,2011030221,221,,,Stoppage,,,,3,REGULAR,185,1015,2012-04-29 21:16:18,2,2,Icing,,,
+222,2011030221_222,2011030221,222,1.0,4.0,Faceoff,,-69.0,-22.0,3,REGULAR,185,1015,2012-04-29 21:16:24,2,2,Stephen Gionta faceoff won against Claude Giroux,-69.0,-22.0,left
+223,2011030221_223,2011030221,223,1.0,4.0,Hit,,98.0,12.0,3,REGULAR,198,1002,2012-04-29 21:16:50,2,2,Stephen Gionta hit Matt Carle,98.0,12.0,left
+224,2011030221_224,2011030221,224,,,Stoppage,,,,3,REGULAR,208,992,2012-04-29 21:17:07,2,2,Offside,,,
+225,2011030221_225,2011030221,225,4.0,1.0,Faceoff,,-20.0,-22.0,3,REGULAR,208,992,2012-04-29 21:17:28,2,2,Sean Couturier faceoff won against Patrik Elias,20.0,22.0,right
+226,2011030221_226,2011030221,226,1.0,4.0,Hit,,-96.0,-31.0,3,REGULAR,221,979,2012-04-29 21:17:50,2,2,Mark Fayne hit Max Talbot,-96.0,-31.0,left
+227,2011030221_227,2011030221,227,1.0,4.0,Penalty,Hooking,,,3,REGULAR,230,970,2012-04-29 21:18:07,2,2,Andy Greene Hooking against Max Talbot,,,left
+228,2011030221_228,2011030221,228,1.0,4.0,Faceoff,,-69.0,-22.0,3,REGULAR,230,970,2012-04-29 21:18:30,2,2,Travis Zajac faceoff won against Claude Giroux,-69.0,-22.0,left
+229,2011030221_229,2011030221,229,4.0,1.0,Shot,Wrist Shot,-46.0,32.0,3,REGULAR,241,959,2012-04-29 21:18:50,2,2,Jakub Voracek Wrist Shot saved by Martin Brodeur,46.0,-32.0,right
+230,2011030221_230,2011030221,230,4.0,1.0,Shot,Snap Shot,-82.0,3.0,3,REGULAR,244,956,2012-04-29 21:18:52,2,2,Scott Hartnell Snap Shot saved by Martin Brodeur,82.0,-3.0,right
+231,2011030221_231,2011030221,231,4.0,1.0,Missed Shot,,-77.0,1.0,3,REGULAR,247,953,2012-04-29 21:18:52,2,2,Wayne Simmonds - Wide of Net,77.0,-1.0,right
+232,2011030221_232,2011030221,232,4.0,1.0,Shot,Wrist Shot,-61.0,-2.0,3,REGULAR,250,950,2012-04-29 21:19:00,2,2,Jakub Voracek Wrist Shot saved by Martin Brodeur,61.0,2.0,right
+233,2011030221_233,2011030221,233,4.0,1.0,Shot,Wrist Shot,-65.0,3.0,3,REGULAR,251,949,2012-04-29 21:18:59,2,2,Wayne Simmonds Wrist Shot saved by Martin Brodeur,65.0,-3.0,right
+234,2011030221_234,2011030221,234,,,Stoppage,,,,3,REGULAR,251,949,2012-04-29 21:19:42,2,2,Net Off,,,
+235,2011030221_235,2011030221,235,4.0,1.0,Faceoff,,-69.0,22.0,3,REGULAR,251,949,2012-04-29 21:19:42,2,2,Claude Giroux faceoff won against Adam Henrique,69.0,-22.0,right
+236,2011030221_236,2011030221,236,4.0,1.0,Goal,Slap Shot,-69.0,-28.0,3,REGULAR,259,941,2012-04-29 21:19:57,2,3,"Claude Giroux (7) Slap Shot, assists: Kimmo Timonen (2), Scott Hartnell (4)",69.0,28.0,right
+237,2011030221_237,2011030221,237,1.0,4.0,Faceoff,,0.0,0.0,3,REGULAR,259,941,2012-04-29 21:20:30,2,3,Travis Zajac faceoff won against Claude Giroux,0.0,0.0,left
+238,2011030221_238,2011030221,238,1.0,4.0,Hit,,98.0,1.0,3,REGULAR,272,928,2012-04-29 21:21:04,2,3,Alexei Ponikarovsky hit Nicklas Grossmann,98.0,1.0,left
+239,2011030221_239,2011030221,239,1.0,4.0,Giveaway,,-17.0,-1.0,3,REGULAR,292,908,2012-04-29 21:21:26,2,3,Giveaway by Travis Zajac,-17.0,-1.0,left
+240,2011030221_240,2011030221,240,1.0,4.0,Hit,,-22.0,40.0,3,REGULAR,303,897,2012-04-29 21:21:34,2,3,Zach Parise hit Jaromir Jagr,-22.0,40.0,left
+241,2011030221_241,2011030221,241,1.0,4.0,Hit,,78.0,36.0,3,REGULAR,320,880,2012-04-29 21:21:52,2,3,Patrik Elias hit Erik Gustafsson,78.0,36.0,left
+242,2011030221_242,2011030221,242,,,Stoppage,,,,3,REGULAR,320,880,2012-04-29 21:22:05,2,3,Puck in Benches,,,
+243,2011030221_243,2011030221,243,1.0,4.0,Faceoff,,69.0,22.0,3,REGULAR,320,880,2012-04-29 21:22:17,2,3,Adam Henrique faceoff won against Sean Couturier,69.0,22.0,left
+244,2011030221_244,2011030221,244,4.0,1.0,Blocked Shot,,64.0,23.0,3,REGULAR,323,877,2012-04-29 21:22:43,2,3,Erik Gustafsson blocked shot from Petr Sykora,-64.0,-23.0,right
+245,2011030221_245,2011030221,245,1.0,4.0,Penalty,Holding,-29.0,29.0,3,REGULAR,326,874,2012-04-29 21:22:47,2,3,Petr Sykora Holding against Erik Gustafsson,-29.0,29.0,left
+246,2011030221_246,2011030221,246,4.0,1.0,Faceoff,,-69.0,22.0,3,REGULAR,326,874,2012-04-29 21:23:11,2,3,Claude Giroux faceoff won against Patrik Elias,69.0,-22.0,right
+247,2011030221_247,2011030221,247,1.0,4.0,Blocked Shot,,-36.0,12.0,3,REGULAR,332,868,2012-04-29 21:23:37,2,3,Patrik Elias blocked shot from Jakub Voracek,-36.0,12.0,left
+248,2011030221_248,2011030221,248,1.0,4.0,Blocked Shot,,-55.0,19.0,3,REGULAR,386,814,2012-04-29 21:24:31,2,3,Andy Greene blocked shot from Jakub Voracek,-55.0,19.0,left
+249,2011030221_249,2011030221,249,1.0,4.0,Shot,Wrist Shot,85.0,-11.0,3,REGULAR,395,805,2012-04-29 21:24:40,2,3,Zach Parise Wrist Shot saved by Ilya Bryzgalov,85.0,-11.0,left
+250,2011030221_250,2011030221,250,4.0,1.0,Missed Shot,,-29.0,-18.0,3,REGULAR,427,773,2012-04-29 21:25:11,2,3,Matt Carle - Wide of Net,29.0,18.0,right
+251,2011030221_251,2011030221,251,4.0,1.0,Missed Shot,,-29.0,16.0,3,REGULAR,451,749,2012-04-29 21:25:35,2,3,Matt Carle - Wide of Net,29.0,-16.0,right
+252,2011030221_252,2011030221,252,1.0,4.0,Blocked Shot,,-67.0,10.0,3,REGULAR,454,746,2012-04-29 21:25:42,2,3,Bryce Salvador blocked shot from Jaromir Jagr,-67.0,10.0,left
+253,2011030221_253,2011030221,253,1.0,4.0,Blocked Shot,,-67.0,0.0,3,REGULAR,461,739,2012-04-29 21:25:46,2,3,Petr Sykora blocked shot from Jaromir Jagr,-67.0,0.0,left
+254,2011030221_254,2011030221,254,1.0,4.0,Giveaway,,-84.0,-5.0,3,REGULAR,484,716,2012-04-29 21:26:09,2,3,Giveaway by Martin Brodeur,-84.0,-5.0,left
+255,2011030221_255,2011030221,255,4.0,1.0,Hit,,-95.0,-32.0,3,REGULAR,491,709,2012-04-29 21:26:16,2,3,Max Talbot hit Andy Greene,95.0,32.0,right
+256,2011030221_256,2011030221,256,4.0,1.0,Takeaway,,-76.0,-37.0,3,REGULAR,497,703,2012-04-29 21:26:21,2,3,Takeaway by Sean Couturier,76.0,37.0,right
+257,2011030221_257,2011030221,257,1.0,4.0,Blocked Shot,,-38.0,-32.0,3,REGULAR,504,696,2012-04-29 21:26:29,2,3,David Clarkson blocked shot from Nicklas Grossmann,-38.0,-32.0,left
+258,2011030221_258,2011030221,258,4.0,1.0,Hit,,-63.0,-37.0,3,REGULAR,514,686,2012-04-29 21:26:38,2,3,Nicklas Grossmann hit David Clarkson,63.0,37.0,right
+259,2011030221_259,2011030221,259,1.0,4.0,Hit,,-15.0,-31.0,3,REGULAR,539,661,2012-04-29 21:27:05,2,3,Steve Bernier hit James van Riemsdyk,-15.0,-31.0,left
+260,2011030221_260,2011030221,260,,,Stoppage,,,,3,REGULAR,539,661,2012-04-29 21:27:16,2,3,Offside,,,
+261,2011030221_261,2011030221,261,1.0,4.0,Faceoff,,0.0,0.0,3,REGULAR,539,661,2012-04-29 21:28:59,2,3,Ryan Carter faceoff won against Matt Read,0.0,0.0,left
+262,2011030221_262,2011030221,262,4.0,1.0,Hit,,11.0,40.0,3,REGULAR,544,656,2012-04-29 21:29:18,2,3,Erik Gustafsson hit Stephen Gionta,-11.0,-40.0,right
+263,2011030221_263,2011030221,263,4.0,1.0,Blocked Shot,,73.0,14.0,3,REGULAR,561,639,2012-04-29 21:29:35,2,3,Erik Gustafsson blocked shot from Bryce Salvador,-73.0,-14.0,right
+264,2011030221_264,2011030221,264,4.0,1.0,Hit,,97.0,5.0,3,REGULAR,587,613,2012-04-29 21:30:01,2,3,Eric Wellwood hit Patrik Elias,-97.0,-5.0,right
+265,2011030221_265,2011030221,265,1.0,4.0,Shot,Snap Shot,30.0,-25.0,3,REGULAR,626,574,2012-04-29 21:30:41,2,3,Peter Harrold Snap Shot saved by Ilya Bryzgalov,30.0,-25.0,left
+266,2011030221_266,2011030221,266,4.0,1.0,Giveaway,,79.0,-37.0,3,REGULAR,626,574,2012-04-29 21:30:41,2,3,Giveaway by Scott Hartnell,-79.0,37.0,right
+267,2011030221_267,2011030221,267,,,Stoppage,,,,3,REGULAR,627,573,2012-04-29 21:30:46,2,3,Goalie Stopped,,,
+268,2011030221_268,2011030221,268,1.0,4.0,Faceoff,,69.0,-22.0,3,REGULAR,627,573,2012-04-29 21:32:15,2,3,Travis Zajac faceoff won against Sean Couturier,69.0,-22.0,left
+269,2011030221_269,2011030221,269,4.0,1.0,Blocked Shot,,72.0,17.0,3,REGULAR,651,549,2012-04-29 21:33:21,2,3,Claude Giroux blocked shot from Andy Greene,-72.0,-17.0,right
+270,2011030221_270,2011030221,270,4.0,1.0,Hit,,85.0,-40.0,3,REGULAR,655,545,2012-04-29 21:33:28,2,3,Braydon Coburn hit Alexei Ponikarovsky,-85.0,40.0,right
+271,2011030221_271,2011030221,271,,,Stoppage,,,,3,REGULAR,663,537,2012-04-29 21:33:40,2,3,Icing,,,
+272,2011030221_272,2011030221,272,4.0,1.0,Faceoff,,69.0,-22.0,3,REGULAR,663,537,2012-04-29 21:33:49,2,3,Claude Giroux faceoff won against David Clarkson,-69.0,22.0,right
+273,2011030221_273,2011030221,273,4.0,1.0,Giveaway,,-31.0,31.0,3,REGULAR,676,524,2012-04-29 21:35:17,2,3,Giveaway by Jakub Voracek,31.0,-31.0,right
+274,2011030221_274,2011030221,274,1.0,4.0,Goal,Wrist Shot,61.0,17.0,3,REGULAR,682,518,2012-04-29 21:35:19,3,3,"Petr Sykora (1) Wrist Shot, assists: David Clarkson (6)",61.0,17.0,left
+275,2011030221_275,2011030221,275,4.0,1.0,Faceoff,,0.0,0.0,3,REGULAR,682,518,2012-04-29 21:35:56,3,3,Sean Couturier faceoff won against Patrik Elias,0.0,0.0,right
+276,2011030221_276,2011030221,276,1.0,4.0,Hit,,-14.0,-37.0,3,REGULAR,703,497,2012-04-29 21:36:24,3,3,Mark Fayne hit Sean Couturier,-14.0,-37.0,left
+277,2011030221_277,2011030221,277,4.0,1.0,Shot,Wrist Shot,-68.0,-20.0,3,REGULAR,734,466,2012-04-29 21:36:57,3,3,James van Riemsdyk Wrist Shot saved by Martin Brodeur,68.0,20.0,right
+278,2011030221_278,2011030221,278,4.0,1.0,Missed Shot,,-90.0,-10.0,3,REGULAR,735,465,2012-04-29 21:37:22,3,3,Daniel Briere - Wide of Net,90.0,10.0,right
+279,2011030221_279,2011030221,279,,,Stoppage,,,,3,REGULAR,738,462,2012-04-29 21:37:06,3,3,Referee or Linesman,,,
+280,2011030221_280,2011030221,280,4.0,1.0,Faceoff,,-69.0,22.0,3,REGULAR,738,462,2012-04-29 21:37:39,3,3,Daniel Briere faceoff won against Travis Zajac,69.0,-22.0,right
+281,2011030221_281,2011030221,281,4.0,1.0,Missed Shot,,-33.0,32.0,3,REGULAR,744,456,2012-04-29 21:38:00,3,3,Braydon Coburn - Wide of Net,33.0,-32.0,right
+282,2011030221_282,2011030221,282,4.0,1.0,Shot,Snap Shot,-81.0,-16.0,3,REGULAR,751,449,2012-04-29 21:38:08,3,3,Daniel Briere Snap Shot saved by Martin Brodeur,81.0,16.0,right
+283,2011030221_283,2011030221,283,1.0,4.0,Blocked Shot,,-49.0,-12.0,3,REGULAR,757,443,2012-04-29 21:38:13,3,3,Ilya Kovalchuk blocked shot from Nicklas Grossmann,-49.0,-12.0,left
+284,2011030221_284,2011030221,284,1.0,4.0,Hit,,-96.0,-26.0,3,REGULAR,777,423,2012-04-29 21:38:33,3,3,Bryce Salvador hit James van Riemsdyk,-96.0,-26.0,left
+285,2011030221_285,2011030221,285,4.0,1.0,Blocked Shot,,73.0,9.0,3,REGULAR,807,393,2012-04-29 21:39:04,3,3,Matt Carle blocked shot from Andy Greene,-73.0,-9.0,right
+286,2011030221_286,2011030221,286,1.0,4.0,Blocked Shot,,-74.0,16.0,3,REGULAR,816,384,2012-04-29 21:39:13,3,3,Mark Fayne blocked shot from Matt Read,-74.0,16.0,left
+287,2011030221_287,2011030221,287,1.0,4.0,Hit,,-16.0,-36.0,3,REGULAR,828,372,2012-04-29 21:39:25,3,3,David Clarkson hit Erik Gustafsson,-16.0,-36.0,left
+288,2011030221_288,2011030221,288,,,Stoppage,,,,3,REGULAR,835,365,2012-04-29 21:39:40,3,3,Puck in Crowd,,,
+289,2011030221_289,2011030221,289,4.0,1.0,Faceoff,,-20.0,22.0,3,REGULAR,835,365,2012-04-29 21:40:02,3,3,Sean Couturier faceoff won against Patrik Elias,20.0,-22.0,right
+290,2011030221_290,2011030221,290,4.0,1.0,Hit,,14.0,39.0,3,REGULAR,854,346,2012-04-29 21:40:23,3,3,Braydon Coburn hit Zach Parise,-14.0,-39.0,right
+291,2011030221_291,2011030221,291,4.0,1.0,Hit,,-78.0,-39.0,3,REGULAR,872,328,2012-04-29 21:40:41,3,3,Sean Couturier hit Peter Harrold,78.0,39.0,right
+292,2011030221_292,2011030221,292,1.0,4.0,Missed Shot,,36.0,32.0,3,REGULAR,910,290,2012-04-29 21:41:20,3,3,Bryce Salvador - Wide of Net,36.0,32.0,left
+293,2011030221_293,2011030221,293,1.0,4.0,Shot,Wrist Shot,53.0,-20.0,3,REGULAR,915,285,2012-04-29 21:41:25,3,3,Steve Bernier Wrist Shot saved by Ilya Bryzgalov,53.0,-20.0,left
+294,2011030221_294,2011030221,294,1.0,4.0,Hit,,61.0,-36.0,3,REGULAR,917,283,2012-04-29 21:41:25,3,3,Ryan Carter hit Scott Hartnell,61.0,-36.0,left
+295,2011030221_295,2011030221,295,4.0,1.0,Missed Shot,,-29.0,-22.0,3,REGULAR,949,251,2012-04-29 21:41:59,3,3,James van Riemsdyk - Wide of Net,29.0,22.0,right
+296,2011030221_296,2011030221,296,,,Stoppage,,,,3,REGULAR,956,244,2012-04-29 21:42:08,3,3,Puck in Benches,,,
+297,2011030221_297,2011030221,297,4.0,1.0,Faceoff,,-20.0,22.0,3,REGULAR,956,244,2012-04-29 21:43:42,3,3,Claude Giroux faceoff won against Travis Zajac,20.0,-22.0,right
+298,2011030221_298,2011030221,298,,,Stoppage,,,,3,REGULAR,981,219,2012-04-29 21:44:44,3,3,Icing,,,
+299,2011030221_299,2011030221,299,4.0,1.0,Faceoff,,-69.0,-22.0,3,REGULAR,981,219,2012-04-29 21:45:54,3,3,Daniel Briere faceoff won against Travis Zajac,69.0,22.0,right
+300,2011030221_300,2011030221,300,4.0,1.0,Shot,Wrist Shot,-78.0,-1.0,3,REGULAR,1004,196,2012-04-29 21:46:31,3,3,James van Riemsdyk Wrist Shot saved by Martin Brodeur,78.0,1.0,right
+301,2011030221_301,2011030221,301,,,Stoppage,,,,3,REGULAR,1005,195,2012-04-29 21:46:33,3,3,Goalie Stopped,,,
+302,2011030221_302,2011030221,302,4.0,1.0,Faceoff,,-69.0,-22.0,3,REGULAR,1005,195,2012-04-29 21:46:55,3,3,Daniel Briere faceoff won against Adam Henrique,69.0,22.0,right
+303,2011030221_303,2011030221,303,1.0,4.0,Blocked Shot,,-67.0,-23.0,3,REGULAR,1006,194,2012-04-29 21:47:07,3,3,David Clarkson blocked shot from James van Riemsdyk,-67.0,-23.0,left
+304,2011030221_304,2011030221,304,4.0,1.0,Shot,Slap Shot,-52.0,24.0,3,REGULAR,1009,191,2012-04-29 21:47:14,3,3,Kimmo Timonen Slap Shot saved by Martin Brodeur,52.0,-24.0,right
+305,2011030221_305,2011030221,305,4.0,1.0,Shot,Wrist Shot,-84.0,7.0,3,REGULAR,1010,190,2012-04-29 21:47:12,3,3,Daniel Briere Wrist Shot saved by Martin Brodeur,84.0,-7.0,right
+306,2011030221_306,2011030221,306,,,Stoppage,,,,3,REGULAR,1011,189,2012-04-29 21:47:26,3,3,Goalie Stopped,,,
+307,2011030221_307,2011030221,307,4.0,1.0,Faceoff,,-69.0,-22.0,3,REGULAR,1011,189,2012-04-29 21:47:32,3,3,Claude Giroux faceoff won against Adam Henrique,69.0,22.0,right
+308,2011030221_308,2011030221,308,4.0,1.0,Hit,,20.0,-3.0,3,REGULAR,1036,164,2012-04-29 21:48:04,3,3,Scott Hartnell hit Dainius Zubrus,-20.0,3.0,right
+309,2011030221_309,2011030221,309,,,Stoppage,,,,3,REGULAR,1040,160,2012-04-29 21:48:12,3,3,Offside,,,
+310,2011030221_310,2011030221,310,1.0,4.0,Faceoff,,20.0,22.0,3,REGULAR,1040,160,2012-04-29 21:48:27,3,3,Patrik Elias faceoff won against Sean Couturier,20.0,22.0,left
+311,2011030221_311,2011030221,311,1.0,4.0,Hit,,45.0,-34.0,3,REGULAR,1055,145,2012-04-29 21:48:47,3,3,Zach Parise hit Nicklas Grossmann,45.0,-34.0,left
+312,2011030221_312,2011030221,312,,,Stoppage,,,,3,REGULAR,1065,135,2012-04-29 21:49:01,3,3,Puck in Crowd,,,
+313,2011030221_313,2011030221,313,4.0,1.0,Faceoff,,-69.0,22.0,3,REGULAR,1065,135,2012-04-29 21:49:18,3,3,Claude Giroux faceoff won against Patrik Elias,69.0,-22.0,right
+314,2011030221_314,2011030221,314,4.0,1.0,Giveaway,,95.0,18.0,3,REGULAR,1078,122,2012-04-29 21:49:42,3,3,Giveaway by Braydon Coburn,-95.0,-18.0,right
+315,2011030221_315,2011030221,315,4.0,1.0,Shot,Snap Shot,-58.0,39.0,3,REGULAR,1105,95,2012-04-29 21:50:09,3,3,Wayne Simmonds Snap Shot saved by Martin Brodeur,58.0,-39.0,right
+316,2011030221_316,2011030221,316,4.0,1.0,Shot,Slap Shot,-29.0,31.0,3,REGULAR,1113,87,2012-04-29 21:50:18,3,3,Erik Gustafsson Slap Shot saved by Martin Brodeur,29.0,-31.0,right
+317,2011030221_317,2011030221,317,,,Stoppage,,,,3,REGULAR,1134,66,2012-04-29 21:50:40,3,3,Icing,,,
+318,2011030221_318,2011030221,318,1.0,4.0,Faceoff,,-69.0,22.0,3,REGULAR,1134,66,2012-04-29 21:50:51,3,3,Travis Zajac faceoff won against Daniel Briere,-69.0,22.0,left
+319,2011030221_319,2011030221,319,4.0,1.0,Hit,,98.0,17.0,3,REGULAR,1167,33,2012-04-29 21:51:45,3,3,Matt Carle hit David Clarkson,-98.0,-17.0,right
+320,2011030221_320,2011030221,320,,,Period End,,,,3,REGULAR,1200,0,2012-04-29 21:52:21,3,3,End of 3rd Period,,,
+321,2011030221_321,2011030221,321,,,Period Official,,,,3,REGULAR,1200,0,2012-04-29 22:04:21,3,3,Period Official,,,
+322,2011030221_322,2011030221,322,,,Period Ready,,,,4,OVERTIME,0,1200,2012-04-29 22:07:32,3,3,Period Ready,,,
+323,2011030221_323,2011030221,323,,,Period Start,,,,4,OVERTIME,0,1200,2012-04-29 22:07:36,3,3,Period Start,,,
+324,2011030221_324,2011030221,324,4.0,1.0,Faceoff,,0.0,0.0,4,OVERTIME,0,1200,2012-04-29 22:07:36,3,3,Sean Couturier faceoff won against Patrik Elias,0.0,0.0,left
+325,2011030221_325,2011030221,325,4.0,1.0,Missed Shot,,35.0,24.0,4,OVERTIME,22,1178,2012-04-29 22:08:00,3,3,Matt Carle - Wide of Net,35.0,24.0,left
+326,2011030221_326,2011030221,326,1.0,4.0,Penalty,Delaying Game - Puck over glass,98.0,-27.0,4,OVERTIME,30,1170,2012-04-29 22:08:17,3,3,Marek Zidlicky Delaying Game - Puck over glass,-98.0,27.0,right
+327,2011030221_327,2011030221,327,4.0,1.0,Faceoff,,69.0,-22.0,4,OVERTIME,30,1170,2012-04-29 22:08:39,3,3,Claude Giroux faceoff won against Adam Henrique,69.0,-22.0,left
+328,2011030221_328,2011030221,328,4.0,1.0,Shot,Wrist Shot,28.0,33.0,4,OVERTIME,35,1165,2012-04-29 22:08:54,3,3,Kimmo Timonen Wrist Shot saved by Martin Brodeur,28.0,33.0,left
+329,2011030221_329,2011030221,329,4.0,1.0,Giveaway,,77.0,40.0,4,OVERTIME,47,1153,2012-04-29 22:09:05,3,3,Giveaway by Claude Giroux,77.0,40.0,left
+330,2011030221_330,2011030221,330,4.0,1.0,Shot,Deflected,79.0,3.0,4,OVERTIME,55,1145,2012-04-29 22:09:14,3,3,Scott Hartnell Deflected saved by Martin Brodeur,79.0,3.0,left
+331,2011030221_331,2011030221,331,1.0,4.0,Giveaway,,97.0,-2.0,4,OVERTIME,82,1118,2012-04-29 22:09:40,3,3,Giveaway by Martin Brodeur,-97.0,2.0,right
+332,2011030221_332,2011030221,332,4.0,1.0,Missed Shot,,77.0,0.0,4,OVERTIME,82,1118,2012-04-29 22:09:43,3,3,Jaromir Jagr - Over Net,77.0,0.0,left
+333,2011030221_333,2011030221,333,,,Stoppage,,,,4,OVERTIME,83,1117,2012-04-29 22:09:49,3,3,Puck in Netting,,,
+334,2011030221_334,2011030221,334,1.0,4.0,Faceoff,,20.0,22.0,4,OVERTIME,83,1117,2012-04-29 22:10:01,3,3,Travis Zajac faceoff won against Daniel Briere,-20.0,-22.0,right
+335,2011030221_335,2011030221,335,1.0,4.0,Shot,Wrist Shot,-60.0,-37.0,4,OVERTIME,114,1086,2012-04-29 22:10:52,3,3,Zach Parise Wrist Shot saved by Ilya Bryzgalov,60.0,37.0,right
+336,2011030221_336,2011030221,336,,,Stoppage,,,,4,OVERTIME,133,1067,2012-04-29 22:12:48,3,3,Video Review,,,
+337,2011030221_337,2011030221,337,1.0,4.0,Faceoff,,20.0,22.0,4,OVERTIME,133,1067,2012-04-29 22:13:05,3,3,Travis Zajac faceoff won against Daniel Briere,-20.0,-22.0,right
+338,2011030221_338,2011030221,338,1.0,4.0,Giveaway,,97.0,22.0,4,OVERTIME,146,1054,2012-04-29 22:13:29,3,3,Giveaway by Anton Volchenkov,-97.0,-22.0,right
+339,2011030221_339,2011030221,339,1.0,4.0,Hit,,96.0,28.0,4,OVERTIME,151,1049,2012-04-29 22:13:34,3,3,Anton Volchenkov hit Claude Giroux,-96.0,-28.0,right
+340,2011030221_340,2011030221,340,4.0,1.0,Missed Shot,,77.0,9.0,4,OVERTIME,155,1045,2012-04-29 22:13:40,3,3,Scott Hartnell - Wide of Net,77.0,9.0,left
+341,2011030221_341,2011030221,341,4.0,1.0,Shot,Wrist Shot,87.0,-13.0,4,OVERTIME,162,1038,2012-04-29 22:13:46,3,3,Jaromir Jagr Wrist Shot saved by Martin Brodeur,87.0,-13.0,left
+342,2011030221_342,2011030221,342,1.0,4.0,Blocked Shot,,39.0,-18.0,4,OVERTIME,170,1030,2012-04-29 22:13:54,3,3,Zach Parise blocked shot from Braydon Coburn,-39.0,18.0,right
+343,2011030221_343,2011030221,343,4.0,1.0,Giveaway,,25.0,40.0,4,OVERTIME,180,1020,2012-04-29 22:14:03,3,3,Giveaway by Scott Hartnell,25.0,40.0,left
+344,2011030221_344,2011030221,344,1.0,4.0,Shot,Snap Shot,-30.0,-23.0,4,OVERTIME,185,1015,2012-04-29 22:14:09,3,3,Travis Zajac Snap Shot saved by Ilya Bryzgalov,30.0,23.0,right
+345,2011030221_345,2011030221,345,4.0,1.0,Hit,,-96.0,-31.0,4,OVERTIME,188,1012,2012-04-29 22:14:11,3,3,Braydon Coburn hit Travis Zajac,-96.0,-31.0,left
+346,2011030221_346,2011030221,346,1.0,4.0,Shot,Wrist Shot,-74.0,39.0,4,OVERTIME,193,1007,2012-04-29 22:14:17,3,3,Mark Fayne Wrist Shot saved by Ilya Bryzgalov,74.0,-39.0,right
+347,2011030221_347,2011030221,347,1.0,4.0,Shot,Wrist Shot,-54.0,-10.0,4,OVERTIME,196,1004,2012-04-29 22:14:19,3,3,Alexei Ponikarovsky Wrist Shot saved by Ilya Bryzgalov,54.0,10.0,right
+348,2011030221_348,2011030221,348,4.0,1.0,Shot,Backhand,88.0,6.0,4,OVERTIME,237,963,2012-04-29 22:15:01,3,3,Andreas Lilja Backhand saved by Martin Brodeur,88.0,6.0,left
+349,2011030221_349,2011030221,349,4.0,1.0,Shot,Backhand,82.0,-15.0,4,OVERTIME,264,936,2012-04-29 22:15:28,3,3,James van Riemsdyk Backhand saved by Martin Brodeur,82.0,-15.0,left
+350,2011030221_350,2011030221,350,4.0,1.0,Shot,Backhand,87.0,-5.0,4,OVERTIME,267,933,2012-04-29 22:15:30,3,3,James van Riemsdyk Backhand saved by Martin Brodeur,87.0,-5.0,left
+351,2011030221_351,2011030221,351,4.0,1.0,Goal,Slap Shot,41.0,10.0,4,OVERTIME,276,924,2012-04-29 22:15:41,3,4,"Daniel Briere (7) Slap Shot, assists: Jakub Voracek (7), Matt Carle (4)",41.0,10.0,left
+352,2011030221_352,2011030221,352,,,Period End,,,,4,OVERTIME,276,924,2012-04-29 22:15:55,3,4,End of OT,,,
+353,2011030221_353,2011030221,353,,,Period Official,,,,4,OVERTIME,276,924,2012-04-29 22:15:58,3,4,Period Official,,,
+354,2011030221_354,2011030221,354,,,Game End,,,,4,OVERTIME,276,924,2012-04-29 22:16:07,3,4,Game End,,,

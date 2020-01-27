@@ -1,0 +1,2 @@
+Team name	User stories and acc / 10	Resource desc / 10	Code - r1 / 20	Code - r2 / 20	Code - r3 / 20	readme / 5	Enhance / 15	Total / 100
+dev group	10	8	12	14	14	5	0	63	No hyperlink descriptions	No abbr, no hyperlinks, no error handling	No enhancement			
